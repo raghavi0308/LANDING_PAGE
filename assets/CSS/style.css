@@ -63,8 +63,6 @@ section
 
 /* carousel starts*/
 
-
-
 .gradient-overlay {
     position: absolute;
     top: 0;
@@ -172,13 +170,10 @@ section
     line-height: 50px;
 }
 
-
 .carousel-control-prev, .carousel-control-next
 {
     z-index: 10;
 }
-
-
 
 /* carousel ends*/
 
